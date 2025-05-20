@@ -1,4 +1,4 @@
-# # 🔁 BYDUNTOL AutoSwap Bot v2.0 [ Xos-Testnet-Automation ]
+# # 🔁 BYDONTOL AutoSwap Bot v2.0 [ Xos-Testnet-Automation ]
 
 ![banner](https://img.shields.io/badge/Status-Testnet-blue) ![license](https://img.shields.io/badge/License-MIT-green)
 
