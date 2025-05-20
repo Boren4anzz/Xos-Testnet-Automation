@@ -1,14 +1,14 @@
-# # 🔁 BYDONTOL AutoSwap Bot v2.0 [ Xos-Testnet-Automation ]
+# 🔁 BYDONTOL AutoSwap Bot v2.0 [XOS Testnet Automation]
 
 ![banner](https://img.shields.io/badge/Status-Testnet-blue) ![license](https://img.shields.io/badge/License-MIT-green)
 
-> Otomatisasi pertukaran token pada jaringan XOS Testnet menggunakan script Node.js berbasis `ethers.js`.
+> Automated token swapping on the XOS Testnet network using a Node.js script powered by `ethers.js`.
 
 ---
 
-## 🧠 Tentang Proyek Ini
+## 🧠 About This Project
 
-Script ini dirancang untuk melakukan swap otomatis antar berbagai pasangan token di jaringan **XOS Testnet** seperti:
+This script is designed to automatically perform token swaps between various pairs on the **XOS Testnet**, such as:
 
 - `XOS ↔ WXOS`
 - `XOS ↔ USDC`
@@ -16,30 +16,29 @@ Script ini dirancang untuk melakukan swap otomatis antar berbagai pasangan token
 - `XOS ↔ SOL`
 - `XOS ↔ JUP`
 
-Dilengkapi dengan delay acak antar transaksi, jumlah swap acak, dan log warna-warni untuk memudahkan debugging & monitoring.
+It includes randomized delays between transactions, random swap amounts, and colorful logs for easier debugging and monitoring.
 
 ---
 
-## ⚙️ Fitur
+## ⚙️ Features
 
-- Swap otomatis antar token berdasarkan konfigurasi
-- Estimasi dan penyesuaian gas secara dinamis
-- Antrian transaksi agar eksekusi tidak tumpang tindih
-- Penanganan error dan logging lengkap dengan timestamp WIB
-- Mendukung wrapping/unwrapping WXOS secara otomatis saat dibutuhkan
+- Automatic token swaps based on configuration
+- Dynamic gas estimation and adjustment
+- Transaction queuing to avoid overlaps
+- Robust error handling and full logging with WIB (GMT+7) timestamps
+- Automatic wrapping/unwrapping of WXOS when necessary
 
 ---
 
-## 📦 Instalasi
+## 📦 Installation
 
 ```bash
-git clone https://github.com/username/bot-autoswap-xos.git
-cd bot-autoswap-xos
+git clone https://github.com/Boren4anzz/Xos-Testnet-Automation.git
+cd Xos-Testnet-Automation
 ```
 ```
 npm install
 ```
-
 ---
 
 ## 💰 Support Me
