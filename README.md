@@ -29,4 +29,7 @@ Dilengkapi dengan delay acak antar transaksi, jumlah swap acak, dan log warna-wa
 ```bash
 git clone https://github.com/username/bot-autoswap-xos.git
 cd bot-autoswap-xos
+```
+```
 npm install
+```
