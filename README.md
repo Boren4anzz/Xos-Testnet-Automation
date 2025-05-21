@@ -39,14 +39,6 @@ cd Xos-Testnet-Automation
 ```
 npm install
 ```
----
 
-## 💰 Support Me
-
-If you find my work helpful, consider supporting me:
-
-- **Crypto Donations**:
-  - **Ethereum**: `0x0000C716579035ba54de3b25379c8207d1162672`
-  - **Solana**: `5KXwd5x96NUm3SDNNsgrnvmQPbED1RgYxSEFQmA6JCiE`
 
 
